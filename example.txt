@@ -1,0 +1,5 @@
+REACT_APP_API_URL="http://164.92.188.47:52/api/"
+REACT_APP_IMAGE_URL='https://icsjobportal.com/mderp/public/files/' 
+REACT_APP_LOGO_NAME="https://www.icsoutsourcing.com/wp-content/uploads/2020/08/thumbnail_ics-logo2.png"
+NODE_ENV='production'
+PUBLIC_URL="http://164.92.188.47:52"
